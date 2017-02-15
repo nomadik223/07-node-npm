@@ -1,0 +1,26 @@
+{
+  "name": "class-lab-07",
+  "version": "1.0.0",
+  "description": "This is the lab for class 07 in 301",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadik223/07-node-npm.git"
+  },
+  "keywords": [
+    "301",
+    "lab"
+  ],
+  "author": "Austin/David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomadik223/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/nomadik223/07-node-npm#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
